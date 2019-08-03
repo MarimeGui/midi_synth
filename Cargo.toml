@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 clap = "2.33.0"
 standard_midi_file = { git = "https://github.com/MarimeGui/standard_midi_file.git" }
-synthesizer = { path = "../synthesizer" }
+synthesizer = { git = "https://github.com/MarimeGui/rust_synthesizer.git" }
