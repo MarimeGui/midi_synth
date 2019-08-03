@@ -142,7 +142,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [[package]]
 name = "synthesizer"
 version = "0.1.0"
-source = "git+https://github.com/MarimeGui/rust_synthesizer.git#331e3d1c6134d8870f29a99addff7f83eb996be5"
+source = "git+https://github.com/MarimeGui/rust_synthesizer.git#07d7b9283c65ec425dacc20efbb2d544079f7d1b"
 dependencies = [
  "ez_io 0.1.0 (git+https://github.com/MarimeGui/ez_io.git)",
  "rand 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)",
